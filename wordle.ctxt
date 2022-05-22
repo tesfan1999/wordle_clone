@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=wordle
+comment1.params=s
+comment1.target=void\ count_word(java.lang.String)
+comment2.params=st
+comment2.target=boolean\ is_alphabet(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ inni()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
